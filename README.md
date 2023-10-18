@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science Hons Cyber Security**
 
-- I’m currently working on **Vlan**
+- I’m currently perusing **CEH**
 
 - 📫 How to reach me **rajputnaoman1706@gmail.com**
 
